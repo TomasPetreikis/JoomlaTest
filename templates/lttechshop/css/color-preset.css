@@ -1,0 +1,60 @@
+:root {
+    --background-color: currentColor;
+    --background: currentColor;
+    --text-color: currentColor;
+}
+.lt-slider-color i,
+.lt-intro-item .sppb-icon,
+.lt-about .sppb-row,
+.lt-team-item ul li,
+.lt-testimonial:before,
+.lt-portfolio .sppb-row,
+div.itemCommentsForm form input#submitCommentButton,
+div.itemCommentsForm form input#submitCommentButton:hover,
+.creativecontactform_wrapper input.creativecontactform_send,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:after {
+    background-color: var(--background-color);
+}
+a.hikabtn, .hikabtn,
+.btn-primary,
+.btn-primary:hover,
+.page-item.active .page-link,
+.pagination ul>li>a:hover, 
+.pagination ul>li>span:hover {
+  background-color: var(--background-color)!important;
+}
+.sp-megamenu-parent > li .sp-menu-badge,
+.shrewd_solution_icon ul li a:hover,
+.shrewd_solution_icon ul li:nth-child(2) a:hover,
+.shrewd_solution_icon ul li:nth-child(3) a:hover,
+.shrewd_solution_icon ul li:nth-child(4) a:hover,
+.shrewd_solution_icon ul li:nth-child(5) a:hover,
+.shrewd_solution_icon ul li:nth-child(6) a:hover{
+   background: var(--background-color);
+}
+
+.lt-intro-title .sppb-addon-content:before,
+.lt-intro-item:hover .sppb-icon i,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li:hover > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.lt-blog h3,
+.tp-caption a.btn-slider,
+.lt-contact-us ul li em,
+.lt-contact-form h4,
+div.k2ItemsBlock ul li a {
+	color: var(--text-color);
+}
+ #lt-portfolio .sppb-section-title .sppb-title-heading,
+.sp-menu-item .fa-shopping-cart,
+#sp-footer a:hover, 
+#sp-bottom1 a:hover,
+.hikashop_tabs_ul li.hikashop_tabs_li_selected,
+div.k2ItemsBlock ul li span.moduleItemDateCreated {
+  	color: var(--text-color)!important;
+}
+.hikashop_tabs_ul li.hikashop_tabs_li_selected,
+a.hikabtn, .hikabtn,
+.hikashop_products_listing .hikashop_products .hikashop_product .hikashop_container .hikashop_subcontainer_border:hover {
+  border-color:var(--text-color)!important;
+}
+ 
